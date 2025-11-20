@@ -14,10 +14,10 @@ pytest
 
 How to run using Docker:
 
-docker pull domsil12/assignment10:latest
+docker pull domsil12/assignment11:latest
 
-docker run -p 8000:8000 domsil12/assignment10:latest
+docker run -p 8000:8000 domsil12/assignment11:latest
 
 Docker Hub Repo:
 
-https://hub.docker.com/r/domsil12/assignment10
+https://hub.docker.com/r/domsil12/assignment11
